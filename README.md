@@ -10,6 +10,7 @@ Creates language models from the preprocessed Wikipedia text corpora from [corpo
 - [bash](http://www.gnu.org/software/bash/) along with various standard command line utilities
   - echo
   - mkdir
+  - wait
 
 ## Execution
 

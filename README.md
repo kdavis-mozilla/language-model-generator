@@ -5,7 +5,7 @@ Creates language models from the preprocessed Wikipedia text corpora from [corpo
 
 ## Prerequisites
 
-- [CMU-Cambridge Statistical Language Modeling toolkit](http://www.speech.cs.cmu.edu/SLM/toolkit.html)
+- [CMU-Cambridge Statistical Language Modeling toolkit](https://github.com/kdavis-mozilla/CMU-Cambridge-Statistical-Language-Modeling-Toolkit)
 - AWS command line interface [cli](https://aws.amazon.com/cli/)
 - [bash](http://www.gnu.org/software/bash/) along with various standard command line utilities
   - echo
